@@ -35,8 +35,9 @@ A modern chatbot platform built with React and Node.js, featuring AI-powered con
 
 1. **Clone and setup:**
 ```bash
-git clone https://github.com/yourusername/chatbot-platform.git
-cd chatbot-platform
+git clone https://github.com/AbarnaSenguttuvan/impressive-chatbot-platform.git
+
+cd impressive-chatbot-platform
 
 # Backend setup
 cd backend
@@ -49,7 +50,7 @@ Environment setup:
 Create backend/.env file:
 
 text
-MONGODB_URI=mongodb://localhost:27017/chatbot-platform
+MONGODB_URI=mongodb://localhost:27017/impressive-chatbot-platform
 JWT_SECRET=your_secret_key_here
 PORT=5000
 Run the application:
@@ -141,22 +142,11 @@ Responsive UI/UX design
 
 Error handling and validation
 
-Deployment
-The application is deployment-ready for platforms like:
-
-Backend: Render, Heroku
-
-Frontend: Netlify, Vercel
-
-Database: MongoDB Atlas
-
-
-
 
 *******Contact*******
 
-Developer: Subramanian Senguttuvan
+Developer: Vidhyabharathi Senguttuvan
 
 Email: senguttuvansuba3@gmail.com
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/AbarnaSenguttuvan
